@@ -2,7 +2,7 @@
 
 The React frontend of Tasteorama, a team recipe application. Visitors can browse recipes, search by name, filter by category or ingredient and open cooking instructions. Registered users can add recipes and manage their saved favourites.
 
-[Live demo](https://response-201-front.vercel.app/) · [Backend repository](https://github.com/Slavik756/Response-201-back)
+[Live demo](https://tasteorama-tau.vercel.app/) · [Backend repository](https://github.com/Slavik756/Response-201-back)
 
 ## Features
 
