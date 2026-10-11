@@ -4,6 +4,12 @@ The React frontend of Tasteorama, a team recipe application. Visitors can browse
 
 [Live demo](https://tasteorama-tau.vercel.app/) · [Backend repository](https://github.com/Slavik756/Response-201-back)
 
+## My contribution - Viacheslav Pokora
+
+Team Lead and Developer on a team learning project. Coordinated development and integrated teammates' changes through GitHub pull requests. Implemented recipe filters, mobile filter controls, and favorites UI; connected recipe requests to the deployed REST API. Contributed Express routes, controllers, and MongoDB service logic for favorite recipes.
+
+The backend contributions are in the [backend repository](https://github.com/Slavik756/Response-201-back); the features below describe the team's application as a whole.
+
 ## Features
 
 - Recipe catalog with pagination and filtering.
